@@ -9,3 +9,12 @@ body {
 h2, h3 { 
     color: orangered; font: bold; 
 }
+
+p {
+    color: brown;
+}
+
+ul {
+    font-family: "Papyrus";
+}
+}
