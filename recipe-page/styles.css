@@ -2,10 +2,6 @@ p {
     width: 620px;
 }
 
-h1 {
-    font-family: "Lucida Console"; font: bold; font-size: large;
-}
-
 body {
     background-color: beige;
 }
@@ -24,6 +20,10 @@ ul {
 
 ol {
     font-family: "Papyrus";
+}
+
+h1 {
+    font-family: "Lucida Console"; font: bold; font-size: 55px;
 }
 
 /* input:checked + label{text-decoration: line-through;} */
