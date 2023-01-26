@@ -1,4 +1,12 @@
-  .description {
+.left {
+    width: 600px; float: left;
+} 
+
+.right {
+    width: 600px; float: left;
+} 
+
+ .description {
     width: 614px; 
 } 
 
