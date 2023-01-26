@@ -2,7 +2,7 @@
 var newListItem = document.createElement('li');
 
 // Now let's update the text content of that list item.
-newListItem.textContent = 'Jalapenos';
+newListItem.textContent = '1 tsp paprika';
 
 // And finally, let's add that list item as a child of the ul.
 document.querySelector('ul').appendChild(newListItem);
