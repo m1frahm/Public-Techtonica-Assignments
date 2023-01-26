@@ -1,5 +1,9 @@
-h2 {
-    color: orange;
+p {
+    width: 620px;
+}
+
+h1 {
+    font-family: "Lucida Console"; font: bold; font-size: large;
 }
 
 body {
