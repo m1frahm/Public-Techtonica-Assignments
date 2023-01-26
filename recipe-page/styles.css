@@ -25,3 +25,9 @@ ul {
 ol {
     font-family: "Papyrus";
 }
+
+/* input:checked + label{text-decoration: line-through;} */
+
+.checked {
+    text-decoration: line-through;
+}
